@@ -1,7 +1,7 @@
 Package: starnote
 Type: Package
 Title: Starnote
-Version: 0.1.0
+Version: 0.2.0
 Author: Tim van der Valk
 Maintainer: Tim van der Valk <t.vandervalk@uu.nl>
 Description: This package allows you to transform and save a stargazer table as tabularx and add a wrapping table note. 
