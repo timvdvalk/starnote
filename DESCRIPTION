@@ -8,3 +8,4 @@ Description: This package allows you to transform and save a stargazer table as 
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.1.0
