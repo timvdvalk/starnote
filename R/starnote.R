@@ -26,7 +26,7 @@
 
 
 starnote <- function(dta = "", save_loc = "", tablenote = "", colnumber = 6, width_col1 = 0.15){
-  nx <- paste(replicate(colnumber, "X"), collapse = "")
+  nx <- paste(replicate(colnumber, "Z"), collapse = "")
   nc <- paste(replicate(colnumber, "c"), collapse = "")
   dta %>%
     str_replace("begin\\{tabular\\}",
